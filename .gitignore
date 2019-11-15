@@ -1,3 +1,7 @@
+# fbpy private files
+combos.txt
+proxies.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
